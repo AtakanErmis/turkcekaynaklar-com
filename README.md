@@ -570,7 +570,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Temiz Kod PHP](https://github.com/anilozmen/clean-code-php) - [Anıl Özmen](https://twitter.com/Anilozmenn)
 - [Yazılımcılar İçin Hafta Sonu Okumaları](https://www.getrevue.co/profile/mhkoca)
 - [Technology Radar / Teknoloji Radarı Sayı: 17](https://assets.thoughtworks.com/assets/technology-radar-vol-17-tr.pdf) - Thoughtworks'ün Technology Radar adıyla çıkarttığı e-dergi'nin Türkçe Çevirisi (PDF)
-- [Web Geliştirici Yol Haritası](https://github.com/AtakanErmis/gelistirici-yol-haritasi) - [Atakan Ermiş](http://atakanermis.tk)
+- [Web Geliştirici Yol Haritası](https://github.com/AtakanErmis/gelistirici-yol-haritasi) - [Atakan Ermiş](http://atakanermis.me)
 
 ### Podcast Yayınları
 - [devPod](http://devpod.org/)
